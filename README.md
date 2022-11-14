@@ -21,7 +21,7 @@ El diseño debe ser responsive.
 ### Frontend
  - React
 ### Backend
- - Node / Express utilizando TypeScript (preferentemente) o JavaScript
+ - Node / Express utilizando TypeScript
  - Un ORM como Sequelize o similar para manejar la DB
 ### Storage
  - Cualquier DB de tipo relacional
